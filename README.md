@@ -8,9 +8,7 @@
 ✅🌱 Zero Dependencies - Pure vanilla code ready to deploy! 
 
 🌟 Quick Start
-
 Open any folder and launch index.html
-
 🔧💥Hack away! 
 
 🎓 Learn While You Code
@@ -18,8 +16,8 @@ Every template includes:
 📝 Commented Code - Understand every line
 🎨 CSS Tricks - Gradients, animations, flexbox wizardry
 🔌 JS Snippets - Password visibility toggle, input validation
-
 🤝 Contribute & Grow!
+
 🐛💡Found a bug?  Got a cool design idea? 
 → Fork this repo
 → Submit a PR
